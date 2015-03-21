@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Blank JS",
+  "ProjectGuid": "19295b33-f5d4-41a9-a5e7-3e78ecdd8f5f",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.BlankJS",
+  "DisplayName": "Blank JS",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{45ad487a-b750-464b-ac6f-05aced5db68b}",
+  "WP8ProductID": "{4c615f21-cebb-4e03-8a93-b703f85622bf}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.BlankJS",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
